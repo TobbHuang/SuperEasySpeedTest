@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">简易测速ByHT</string>
+    <string name="hello_world">Hello world!因为百度地图和fragment不那么兼容所以先做这个简易版本的玩玩。。以后有空再用抽屉菜单和fragment做一个棒一点的版本</string>
+
+</resources>
